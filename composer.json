@@ -1,0 +1,15 @@
+{
+    "name": "doi/url-extractor",
+    "description": "PHP script to extract doi related URLs using guzzlefactory",
+    "type": "project",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Rogier Muijen",
+            "email": "rogiermuijen@gmail.com"
+        }
+    ],
+    "require": {
+        "graham-campbell/guzzle-factory": "^3.0"
+    }
+}
